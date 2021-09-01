@@ -17,7 +17,9 @@ Skynet is highly performant, and, with our new Homescreen web app, we're letting
 - Use the Deploy to Skynet Github action for building and - Done
 - Deploying your frontend automatically - Done
 - adding a working "Save to Homescreen" link in the Github repo - Done 
-- Using an ENS or HNS decentralized domain name for the web app  - Done 
+- Using an ENS or HNS decentralized domain name for the web app  - Done
+
+View via HNS https://25kg.hns.siasky.net/ 
 
   
 
