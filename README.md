@@ -10,12 +10,12 @@ Skynet is highly performant, and, with our new Homescreen web app, we're letting
 
 #### Tasks Description
 
-- Create or fork a DeFi tool and host the front-end on Skynet. 
-- adding a working "Save to Homescreen" link in the Github repo 
-- Using an ENS or HNS decentralized domain name for the web app 
-- Use the Deploy to Skynet Github action for building and 
--  Deploying your frontend automatically | 1 share
-- hosting off-chain, mutable application data on Skynet using SkyDB or MySky
+- Create or fork a DeFi tool and host the front-end on Skynet - Done
+- Use the Deploy to Skynet Github action for building and - Done
+- Deploying your frontend automatically - Done
+- adding a working "Save to Homescreen" link in the Github repo - Done 
+- Using an ENS or HNS decentralized domain name for the web app  - Done 
+
   
 
 
